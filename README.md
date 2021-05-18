@@ -12,3 +12,12 @@ Double click on `index.html` in your `mario` folder you extracted earlier.  A br
 # Hack it
 - *OPTIONAL:* If you installed Visual Studio Code, start it up, click `File->Open Folder...`, then select the `mario` folder.
 - Open js/constants.js.  Change the values of the variables in there, then refresh the Mario page in your browser.  Mario will start at the beginning of the level, with new characteristics depending on what you changed.
+
+# I just see a blue square! What do I do?
+This means you typed something wrong.  Open up the console to see what the error is (Press Shift + Ctrl + J in Chrome).  If you don't know how to open the console, Google "Developer console for [your browser]" to find instructions to open it.  Remember, real programmers Google *everything*.  
+  The error will show up in red.  If you don't know what the mistake you made was, Google the error!  Go look at the file you edited last.
+  
+# How does the game work?
+If you're looking to actually start understanding what the game is doing, start with js/game.js.  That's the file that initializes the game and starts the game loop.  Good luck!
+  
+  
